@@ -1,0 +1,32 @@
+
+h1 {
+  color: #adff2f;
+}
+h2 {
+  color: royalblue;
+}
+p {
+  color: rgb(79, 47, 78);
+}
+
+button {
+  color: brown;
+  background-color: whitesmoke;
+}
+
+body {
+  background-color: whitesmoke;
+ 
+}
+div{
+  width: 100px;
+  height: 100px;
+  border: 2px;
+ /* border-radius: 50%; */
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: chocolate;
+}
+p {
+  text-align: left;
+}
